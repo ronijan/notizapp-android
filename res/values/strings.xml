@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="title_activity_notiz__ansehen">Notiz_Ansehen</string>
+
+    <string name="main_activity_menu">Show Memos</string>
+    <string name="exit">Exit</string>
+    <string name="home_notiz_ansehen"> Back</string>
+    <string name="close">Close</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Save Text</string>
+    <string name="help_notiz_ansehen">help</string>
+    <string name="help">Help</string>
+    <string name="dilog_close">Close</string>
+    <string name="menu_save">Save Text</string>
+    <string name="menu_clear">Clear Text</string>
+    <string name="menu_close">Close</string>
+    <string name="menu_time">Add Date</string>
+</resources>
